@@ -44,6 +44,7 @@ public:
 	}
 };
 
+//2. Add student to party
 class Student
 {
 private:
